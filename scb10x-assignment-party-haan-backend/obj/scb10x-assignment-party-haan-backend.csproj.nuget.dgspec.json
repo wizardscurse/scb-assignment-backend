@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/roj/Documents/scb10x_assignment/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj": {}
+    "/Users/roj/scb/scb-assignment-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj": {}
   },
   "projects": {
-    "/Users/roj/Documents/scb10x_assignment/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj": {
+    "/Users/roj/scb/scb-assignment-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/roj/Documents/scb10x_assignment/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj",
+        "projectUniqueName": "/Users/roj/scb/scb-assignment-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj",
         "projectName": "scb10x-assignment-party-haan-backend",
-        "projectPath": "/Users/roj/Documents/scb10x_assignment/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj",
+        "projectPath": "/Users/roj/scb/scb-assignment-backend/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend.csproj",
         "packagesPath": "/Users/roj/.nuget/packages/",
-        "outputPath": "/Users/roj/Documents/scb10x_assignment/scb10x-assignment-party-haan-backend/scb10x-assignment-party-haan-backend/obj/",
+        "outputPath": "/Users/roj/scb/scb-assignment-backend/scb10x-assignment-party-haan-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/roj/.config/NuGet/NuGet.Config"
